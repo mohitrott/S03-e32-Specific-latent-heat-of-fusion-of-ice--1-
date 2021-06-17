@@ -22,6 +22,7 @@ function start(){
     
     
     timeleft -= 1;
+    // timeleft = 10;
 }
 
 function resetPopup(){

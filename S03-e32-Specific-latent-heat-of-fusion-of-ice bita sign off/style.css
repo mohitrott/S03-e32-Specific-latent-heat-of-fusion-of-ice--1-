@@ -388,10 +388,14 @@ body {
   position: absolute;
   font-size: 26px;
   z-index: 9997;
-  top: 387px;
-  left: 535px;
+  top: 383px;
+  left: 527px;
   font-family: Myriad Pro Light;
   color: white;
+  /* transform: translate(-20%, -10%); */
+  height: 32px;
+  width: 29px;
+  text-align: center;
 }
 
 .closeBox{
